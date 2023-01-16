@@ -1,13 +1,11 @@
 # Data Processing in Python (JEM207)
 
-token = 5b3ce3597851110001cf62481dc59c1f77f445439a968359bc2dceca
-
-
-sreality api url: https://www.sreality.cz/api/cs/v2/estates?
-
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz) and [Vítek Macháček](mailto:vit.machacek@cerge-ei.cz).
 
 [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) no longer on the bench. Even left hands are handy.
+# Project consultations
+Everyone should have an **assigned supervisor**, who sent you feedback on your project. If not, let jan.sila@fsv.cuni.cz know ASAP. 
+Unless arranged otherwise with supervisor, sign up for consultations through [this link.](https://docs.google.com/spreadsheets/d/1O5qZgJMQRALaEeDQh5jeoa4HFA9x8Fd_vIsD95Uglqg/edit?usp=sharing)
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
@@ -34,7 +32,7 @@ The only way to submit your project is through [project submission form](https:/
 | 28/11 | Seminar 4                                              | Vitek  | DEADLINE: topic approval |    |   |
 | 29/11 | Data science libraries                                 | Martin |                        |    |   |
 | 6/12  | Putting it all together                                | Martin |                        |    |   |
-| 13/12 | Guest lecture                                          | TBA    |                        |    |   |
+| 13/12 | Big data & Spark (Guest lecture) + Python Beer         | [Karel Simanek](https://www.bighub.cz/about)    |                        |    |   |
 | 19/12 | WiP projectg consultations                             | both   |                        |    |   |
 | 20/12 | WiP projectg consultations                             | both   |                        |    |   |
 
